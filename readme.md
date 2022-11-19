@@ -3,9 +3,9 @@ For run in your device exec
 ````
   
   yarn release
-
-  # or
-
+````
+  or
+````
   yarn test
 
 ````
